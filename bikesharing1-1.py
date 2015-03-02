@@ -1,4 +1,4 @@
-path = '/Users/Gareth/SkyDrive/Documents/Python/data/data.csv'
+path = '/Users/haslam/OneDrive/OneDrive-Documents/Python/data/hits.csv'
 open(path).readline()
 import pandas as pd
 import datetime as dt
